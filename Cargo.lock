@@ -3,6 +3,14 @@
 version = 4
 
 [[package]]
+name = "comment"
+version = "0.1.0"
+
+[[package]]
+name = "hello-print"
+version = "0.1.0"
+
+[[package]]
 name = "hello-world"
 version = "0.1.0"
 
