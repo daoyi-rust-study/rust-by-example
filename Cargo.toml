@@ -9,7 +9,7 @@ members = [
     "comment",
     "hello-print",
     "hello-print-fmt",
-    "hello-world",
+    "hello-world", "primitives", "primitives-turples",
     "print-debug",
     "print-display",
     "testcase-list",
