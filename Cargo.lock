@@ -11,6 +11,10 @@ name = "hello-print"
 version = "0.1.0"
 
 [[package]]
+name = "hello-print-fmt"
+version = "0.1.0"
+
+[[package]]
 name = "hello-world"
 version = "0.1.0"
 
