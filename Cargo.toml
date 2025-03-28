@@ -4,6 +4,6 @@ version = "0.1.0"
 edition = "2024"
 
 [workspace]
-members = [".", "comment", "hello-print", "hello-world", "print-debug"]
+members = [".", "comment", "hello-print", "hello-world", "print-debug", "print-display"]
 
 [dependencies]

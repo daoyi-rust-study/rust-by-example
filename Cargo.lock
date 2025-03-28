@@ -19,5 +19,9 @@ name = "print-debug"
 version = "0.1.0"
 
 [[package]]
+name = "print-display"
+version = "0.1.0"
+
+[[package]]
 name = "rust-by-example"
 version = "0.1.0"
