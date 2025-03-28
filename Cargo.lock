@@ -23,6 +23,10 @@ name = "primitives"
 version = "0.1.0"
 
 [[package]]
+name = "primitives-array"
+version = "0.1.0"
+
+[[package]]
 name = "primitives-turples"
 version = "0.1.0"
 
