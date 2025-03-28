@@ -25,3 +25,7 @@ version = "0.1.0"
 [[package]]
 name = "rust-by-example"
 version = "0.1.0"
+
+[[package]]
+name = "testcase-list"
+version = "0.1.0"
