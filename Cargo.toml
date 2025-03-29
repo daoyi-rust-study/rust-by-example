@@ -6,7 +6,7 @@ edition = "2024"
 [workspace]
 members = [
     ".",
-    "comment",
+    "comment", "custom-types-structs",
     "hello-print",
     "hello-print-fmt",
     "hello-world", "primitives", "primitives-array", "primitives-turples",

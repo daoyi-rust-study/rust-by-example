@@ -7,6 +7,10 @@ name = "comment"
 version = "0.1.0"
 
 [[package]]
+name = "custom-types-structs"
+version = "0.1.0"
+
+[[package]]
 name = "hello-print"
 version = "0.1.0"
 
